@@ -40,5 +40,5 @@ Readability: The loop version is the most intuitive for beginners. The NumPy ver
 Output: All three produce the same type of plot, but the PyTorch script also demonstrates how to compute cumulative frequencies using cumsum(dim=0) and one‑hot encoding (optional).
 
 ## Example Output
-
+![Frequency graph of coin tossing](result.png)
 The plot shows the frequency of heads starting from 0 or 1, then rapidly converging to 0.5 as the number of tosses grows.
